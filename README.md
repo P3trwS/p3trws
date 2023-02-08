@@ -1,6 +1,6 @@
 ### Eai comparsa 😎, me chamo Pedro 🖥
 
-- 🔭 Ultimamente trabalhando com Full-Stack ;
+- 🖥 Ultimamente trabalhando com Full-Stack ;
 
 - 🌱 Estudando Git, Spring Boot, React ;
 
