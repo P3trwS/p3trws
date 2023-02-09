@@ -1,6 +1,6 @@
 # Eai comparsa 😎, me chamo Pedro 🖥
 ### Formado em Desencolverdor de Sistemas SENAI
-### Facul de Engenharia de Software FIEP
+### Cursando facul de Engenharia de Software FIEP
 #
 ### Linguagens:
 <div>
