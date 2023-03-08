@@ -25,7 +25,7 @@
 #
 - 🖥 Ultimamente Full-Stack ;
 
-- 🌱 Estudando Git, Spring Boot, React ;
+- 🌱 Estudando Git, Spring Boot;
 
 - ⚡ Fun fact: Java is (╯°□°）╯︵ ┻━┻ ;;;;;
 #
