@@ -1,6 +1,6 @@
 # Eai comparsa 😎, me chamo Pedro 🖥
-### Ténico Formado em Desenvolvimento de Sistemas SENAI
-### Cursando faculdade de Engenharia de Software FIEP
+### Diploma em Desenvolvimento de Sistemas SENAI 🥇
+### Cursando faculdade de Engenharia de Software FIEP 🖥
 #
 ### Linguagens:
 <div>
