@@ -12,9 +12,11 @@ No meu último projeto de TCC, utilizei Java (Spring), HTML, CSS e JS. Construí
 Na faculdade, estou trabalhando com Python, C, Java, R e SQL. 
 Também realizei diversos projetos com Power BI, Power Query e automações no Excel.
 #
-- Web Sraping;
-- Automation web, software, Excel, Power BI;
-- Sites;
+- Web Sraping
+- Automation web, software.
+- Excel
+- Power BI
+- Sites
 #
 - Python and Library/frameworks... Selenium, Pandas, Requests, Django, Sqlite...
 - Java and frameworks... Spring boot, JPA.
