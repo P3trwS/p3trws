@@ -2,6 +2,11 @@
 ### Desenvolvimento de Sistemas SENAI 🥇
 ### Eng Software 3º período 🖥️
 #
+I'm working with Python automating process. 
+I've done a lot of projects with Power BI, Power Query and Excel automations too.
+
+Eu trabalho com automação de processos em Python.
+Já fiz muitos projetos com Power BI, Power Query e automações Excel também.
 #
 - Web Sraping;
 - Automação web, software, Excel;
