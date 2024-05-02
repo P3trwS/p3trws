@@ -15,7 +15,7 @@ Também realizei diversos projetos com Power BI, Power Query e automações no E
 - Web Sraping;
 - Automation web, software, Excel, Power BI;
 - Sites;
-- #
+#
 - Python and Library/frameworks... Selenium, Pandas, Requests, Django, Sqlite...
 - Java and frameworks... Spring boot, JPA.
 - Powerquery(M)
