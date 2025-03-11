@@ -1,6 +1,6 @@
 # Hello! My name's Pedro🖥
 ### Desenvolvimento de Sistemas SENAI 🥇
-### Eng Software 3º período 🖥️
+### Eng Software 5º período 🖥️
 #
 -I'm working with Python automating process, and other projects with different linguages. 
 -I worked with Java(Spring), HTML, CSS, JS on my last TCC project. I build a site from scrath using Spring Boot(framework from Java JPA) and a lot of SQL.
