@@ -1,6 +1,15 @@
 # Hello! My name's Pedro🖥
 ### Desenvolvimento de Sistemas SENAI 🥇
 ### Eng Software 5º período 🖥️
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P3trwS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=P3trwS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 #
 -I'm working with Python automating process, and other projects with different linguages. 
 -I worked with Java(Spring), HTML, CSS, JS on my last TCC project. I build a site from scrath using Spring Boot(framework from Java JPA) and a lot of SQL.
