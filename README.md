@@ -12,8 +12,8 @@
 </div>
 
 ## Tecnologias e Ferramentas
-- **Python:** Selenium, Pandas, Requests, Django, SQLite  
-- **Bancos de Dados:** PostgreSQL, MariaDB, Oracle, DBmaker  
+- **Python:** Selenium, Pandas, Requests, Streamlit, Prefect   
+- **Bancos de Dados:** PostgreSQL, MariaDB, Oracle, DBmaker, SQLite
 - **Outras Linguagens:** R, Java
 - **Ferramentas:** Power BI, Power Query, Excel, Docker, Linux/WSL
 
